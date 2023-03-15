@@ -1,6 +1,14 @@
 [
   {
+    "package": "inbreedR",
+    "oncran": true
+  },
+  {
     "package": "partR2",
+    "oncran": true
+  },
+  {
+    "package": "rptR",
     "oncran": true
   }
 ]

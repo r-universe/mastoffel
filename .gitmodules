@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "inbreedR"]
+	path = inbreedR
+	url = https://github.com/mastoffel/inbreedr
+	shallow = true
+	registered = true
 [submodule "partR2"]
 	path = partR2
 	url = https://github.com/mastoffel/partr2
+	shallow = true
+	registered = true
+[submodule "rptR"]
+	path = rptR
+	url = https://github.com/mastoffel/rptr
 	shallow = true
 	registered = true
